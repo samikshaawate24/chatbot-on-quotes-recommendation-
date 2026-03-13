@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quotes Recommendation Chatbot using NLP
 
 A complete full-stack chatbot application that recommends quotes based on user intent using keyword-based Natural Language Processing.
@@ -45,3 +46,7 @@ If no category is detected, the bot provides a helpful fallback message.
 - **Frontend**: React, Tailwind CSS, Motion, Lucide Icons.
 - **Backend**: Node.js, Express.
 - **NLP**: Keyword-based intent classification.
+=======
+# chatbot-on-quotes-recommendation-
+The NLP-based Quote Recommendation Chatbot is an intelligent conversational system developed using Rasa, designed to recommend inspirational and meaningful quotes.
+>>>>>>> 7a2d1b75f6b96c68adba09f31e45c81fbd37b258
