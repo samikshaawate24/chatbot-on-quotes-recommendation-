@@ -1,0 +1,5 @@
+{
+  "name": "Quotes Recommendation Chatbot using NLP",
+  "description": "A simple chatbot that recommends quotes based on user intent using keyword-based NLP.",
+  "requestFramePermissions": []
+}
